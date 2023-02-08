@@ -1,2 +1,2 @@
-# CV-practice-
+# CV
 Practice only
